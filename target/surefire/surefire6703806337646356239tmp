@@ -1,0 +1,6 @@
+#surefire
+#Thu Apr 04 22:41:56 CDT 2013
+user.dir=C\:\\apps\\workspaces\\org.spring.test
+localRepository=C\:\\Users\\Ramkumar\\.m2\\repository
+skipTest=true
+basedir=C\:\\apps\\workspaces\\org.spring.test
